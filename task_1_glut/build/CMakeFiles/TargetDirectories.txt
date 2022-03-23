@@ -1,0 +1,3 @@
+/home/quatters/Coding/graphics/task_1_glut/build/CMakeFiles/task_1_glut.dir
+/home/quatters/Coding/graphics/task_1_glut/build/CMakeFiles/edit_cache.dir
+/home/quatters/Coding/graphics/task_1_glut/build/CMakeFiles/rebuild_cache.dir

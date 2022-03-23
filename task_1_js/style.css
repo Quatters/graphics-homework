@@ -1,0 +1,15 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  margin-top: 1.5rem;
+}
+
+#canvas {
+  border: 1px solid gray;
+  border-radius: 4px;
+}
