@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/quatters/Coding/graphics/param_curves/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/param_curves.dir/main.cpp.o -c /home/quatters/Coding/graphics/param_curves/main.cpp",
+  "file": "/home/quatters/Coding/graphics/param_curves/main.cpp"
+}
+]

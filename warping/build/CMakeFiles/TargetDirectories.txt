@@ -1,0 +1,3 @@
+/home/quatters/Coding/graphics/warping/build/CMakeFiles/warping.dir
+/home/quatters/Coding/graphics/warping/build/CMakeFiles/edit_cache.dir
+/home/quatters/Coding/graphics/warping/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+/home/quatters/Coding/graphics/raster_algorithms/build/CMakeFiles/raster_algorithms.dir
+/home/quatters/Coding/graphics/raster_algorithms/build/CMakeFiles/edit_cache.dir
+/home/quatters/Coding/graphics/raster_algorithms/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+/home/quatters/Coding/graphics/param_curves/build/CMakeFiles/param_curves.dir
+/home/quatters/Coding/graphics/param_curves/build/CMakeFiles/edit_cache.dir
+/home/quatters/Coding/graphics/param_curves/build/CMakeFiles/rebuild_cache.dir
