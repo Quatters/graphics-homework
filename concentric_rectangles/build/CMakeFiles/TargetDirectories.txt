@@ -1,0 +1,3 @@
+/home/quatters/Coding/graphics/concentric_rectangles/build/CMakeFiles/concentric_rectangles.dir
+/home/quatters/Coding/graphics/concentric_rectangles/build/CMakeFiles/edit_cache.dir
+/home/quatters/Coding/graphics/concentric_rectangles/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,15 @@
+# ninja log v5
+0	174	1654402639559358310	CMakeFiles/color_polygon.dir/main.cpp.o	9aaf2b9375aa563d
+174	262	1654402639646025164	color_polygon	fbb923a18b8778dc
+0	221	1654746290265321692	CMakeFiles/color_polygon.dir/main.cpp.o	9aaf2b9375aa563d
+221	333	1654746290378686793	color_polygon	fbb923a18b8778dc
+0	226	1654746472520048150	CMakeFiles/color_polygon.dir/main.cpp.o	9aaf2b9375aa563d
+227	345	1654746472636736220	color_polygon	fbb923a18b8778dc
+0	154	1654746481021628322	CMakeFiles/color_polygon.dir/main.cpp.o	9aaf2b9375aa563d
+155	238	1654746481101643401	color_polygon	fbb923a18b8778dc
+0	163	1654746489873314035	CMakeFiles/color_polygon.dir/main.cpp.o	9aaf2b9375aa563d
+164	243	1654746489953329429	color_polygon	fbb923a18b8778dc
+0	152	1654746496074516643	CMakeFiles/color_polygon.dir/main.cpp.o	9aaf2b9375aa563d
+152	243	1654746496164534236	color_polygon	fbb923a18b8778dc
+0	189	1654746776575042728	CMakeFiles/color_polygon.dir/main.cpp.o	9aaf2b9375aa563d
+189	274	1654746776658376775	color_polygon	fbb923a18b8778dc

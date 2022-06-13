@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/quatters/Coding/graphics/color_polygon/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/color_polygon.dir/main.cpp.o -c /home/quatters/Coding/graphics/color_polygon/main.cpp",
+  "file": "/home/quatters/Coding/graphics/color_polygon/main.cpp"
+}
+]

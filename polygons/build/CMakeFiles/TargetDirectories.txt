@@ -1,0 +1,3 @@
+/home/quatters/Coding/graphics/polygons/build/CMakeFiles/polygons.dir
+/home/quatters/Coding/graphics/polygons/build/CMakeFiles/edit_cache.dir
+/home/quatters/Coding/graphics/polygons/build/CMakeFiles/rebuild_cache.dir

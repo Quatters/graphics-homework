@@ -1,0 +1,3 @@
+/home/quatters/Coding/graphics/color_polygon/build/CMakeFiles/color_polygon.dir
+/home/quatters/Coding/graphics/color_polygon/build/CMakeFiles/edit_cache.dir
+/home/quatters/Coding/graphics/color_polygon/build/CMakeFiles/rebuild_cache.dir

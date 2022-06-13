@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/quatters/Coding/graphics/concentric_rectangles/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/concentric_rectangles.dir/main.cpp.o -c /home/quatters/Coding/graphics/concentric_rectangles/main.cpp",
+  "file": "/home/quatters/Coding/graphics/concentric_rectangles/main.cpp"
+}
+]
