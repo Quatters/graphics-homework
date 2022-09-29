@@ -1,0 +1,7 @@
+# ninja log v5
+642	748	1655097551212814310	wire_models	2f14c922b0142d0d
+1	642	1655097551109479869	CMakeFiles/wire_models.dir/main.cpp.o	a51fe03fefe650fd
+2	811	1655353930741453492	CMakeFiles/wire_models.dir/main.cpp.o	a51fe03fefe650fd
+811	941	1655353930871452714	wire_models	2f14c922b0142d0d
+1	772	1655354000757692031	CMakeFiles/wire_models.dir/main.cpp.o	a51fe03fefe650fd
+772	887	1655354000874357970	wire_models	2f14c922b0142d0d

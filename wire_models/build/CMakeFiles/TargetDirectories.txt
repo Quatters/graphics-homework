@@ -1,0 +1,3 @@
+/home/quatters/Coding/graphics/wire_models/build/CMakeFiles/wire_models.dir
+/home/quatters/Coding/graphics/wire_models/build/CMakeFiles/edit_cache.dir
+/home/quatters/Coding/graphics/wire_models/build/CMakeFiles/rebuild_cache.dir
